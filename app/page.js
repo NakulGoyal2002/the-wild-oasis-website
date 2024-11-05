@@ -1,7 +1,7 @@
+import React from "react";
 import Image from "next/image";
 import Link from "next/link";
 import bg from "@/public/bg.png";
-import React from "react";
 
 export default function Page() {
 	return (

@@ -46,6 +46,14 @@ export default async function Navigation() {
 						</Link>
 					)}
 				</li>
+				<li>
+					<Link
+						href='https://nakul-react-the-wild-oasis.netlify.app/login'
+						className='hover:text-accent-400 transition-colors'
+					>
+						Admin area
+					</Link>
+				</li>
 			</ul>
 		</nav>
 	);
